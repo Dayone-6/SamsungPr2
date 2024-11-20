@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="tips">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+    </string-array>
+</resources>
